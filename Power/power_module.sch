@@ -672,9 +672,9 @@ Wire Wire Line
 	1800 7800 2500 7800
 Wire Wire Line
 	1800 7700 2500 7700
-Text Label 2100 8000 0    60   ~ 0
-PH2
 Text Label 2100 7900 0    60   ~ 0
+PH2
+Text Label 2100 8000 0    60   ~ 0
 PH1
 Wire Wire Line
 	7150 3600 7150 4300
@@ -847,8 +847,6 @@ F 3 "https://www.infineon.com/dgdl/IDW75E60_V2_1.pdf?folderId=db3a304412b4079501
 $EndComp
 Wire Wire Line
 	10050 1550 9850 1550
-Wire Wire Line
-	12550 1550 10350 1550
 Wire Wire Line
 	1000 2150 1350 2150
 Wire Wire Line
@@ -1119,7 +1117,7 @@ Wire Wire Line
 Wire Wire Line
 	13950 4200 14450 4200
 Wire Wire Line
-	13050 2800 13050 2000
+	13050 1550 13050 2800
 Connection ~ 13050 2000
 Wire Wire Line
 	13050 4100 13050 5800
@@ -1173,4 +1171,6 @@ Wire Wire Line
 	4100 7600 4800 7600
 Wire Wire Line
 	4100 7700 4800 7700
+Wire Wire Line
+	10350 1550 13050 1550
 $EndSCHEMATC

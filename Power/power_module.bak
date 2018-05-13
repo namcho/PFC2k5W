@@ -153,7 +153,7 @@ U 1 1 5A60C209
 P 3900 3150
 F 0 "C3" H 3925 3250 50  0000 L CNN
 F 1 "C" H 3925 3050 50  0000 L CNN
-F 2 "Capacitors_ThroughHole:C_Rect_L10.0mm_W4.0mm_P7.50mm_MKS4" H 3938 3000 50  0001 C CNN
+F 2 "Capacitors_ThroughHole:C_Rect_L18.0mm_W5.0mm_P15.00mm_FKS3_FKP3" H 3938 3000 50  0001 C CNN
 F 3 "" H 3900 3150 50  0000 C CNN
 	1    3900 3150
 	1    0    0    -1  
@@ -672,9 +672,9 @@ Wire Wire Line
 	1800 7800 2500 7800
 Wire Wire Line
 	1800 7700 2500 7700
-Text Label 2100 8000 0    60   ~ 0
-PH2
 Text Label 2100 7900 0    60   ~ 0
+PH2
+Text Label 2100 8000 0    60   ~ 0
 PH1
 Wire Wire Line
 	7150 3600 7150 4300
