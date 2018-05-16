@@ -1203,4 +1203,10 @@ NoConn ~ 1150 8350
 NoConn ~ 1150 8150
 NoConn ~ 1100 7300
 NoConn ~ 1100 7100
+Text Notes 6050 5950 0    60   ~ 0
+https://www.allaboutcircuits.com/tools/trace-resistance-calculator/
+Text Label 8200 2700 0    60   ~ 0
+Gate1
+Text Label 9000 4100 0    60   ~ 0
+Gate2
 $EndSCHEMATC
