@@ -3,7 +3,7 @@
   (general
     (links 48)
     (no_connects 48)
-    (area 50.417503 115.174999 317.325001 293.528018)
+    (area 0 0 0 0)
     (thickness 1.6)
     (drawings 2)
     (tracks 13)
@@ -182,7 +182,7 @@
   )
 
   (module Housings_SOIC:SOIC-16W_7.5x10.3mm_Pitch1.27mm placed (layer F.Cu) (tedit 58CC8F64) (tstamp 5A95F93D)
-    (at 102 219.9)
+    (at 117.5 210.4)
     (descr "16-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SOIC 1.27")
     (path /5A63A551)
@@ -252,7 +252,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering placed (layer F.Cu) (tedit 58AA84A8) (tstamp 5A95F701)
-    (at 104.5 229.7)
+    (at 120 220.2)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5A8FA5F3)
@@ -288,7 +288,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23_Handsoldering placed (layer F.Cu) (tedit 58CE4E7E) (tstamp 5A95F788)
-    (at 84.1 216.4)
+    (at 99.6 206.9)
     (descr "SOT-23, Handsoldering")
     (tags SOT-23)
     (path /5AA326B2)
@@ -328,7 +328,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering placed (layer F.Cu) (tedit 58E0A804) (tstamp 5A95F887)
-    (at 89.8 225.9)
+    (at 105.3 216.4)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5A8E1AB5)
@@ -364,7 +364,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering placed (layer F.Cu) (tedit 58E0A804) (tstamp 5A95F881)
-    (at 99.5 229.7)
+    (at 115 220.2)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5A8F4285)
@@ -400,7 +400,7 @@
   )
 
   (module Capacitors_SMD:C_1206_HandSoldering placed (layer F.Cu) (tedit 58AA84D1) (tstamp 5A95F719)
-    (at 102.2 212.9 180)
+    (at 117.7 203.4 180)
     (descr "Capacitor SMD 1206, hand soldering")
     (tags "capacitor 1206")
     (path /5AA10813)
@@ -436,7 +436,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering placed (layer F.Cu) (tedit 58AA84A8) (tstamp 5A95F713)
-    (at 112.9 217 180)
+    (at 128.4 207.5 180)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5A90634B)
@@ -472,7 +472,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering placed (layer F.Cu) (tedit 58AA84A8) (tstamp 5A95F70D)
-    (at 112.9 219 180)
+    (at 128.4 209.5 180)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5A9060A1)
@@ -508,7 +508,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering placed (layer F.Cu) (tedit 58E0A804) (tstamp 5A95F88D)
-    (at 89.7 219.5 180)
+    (at 105.2 210 180)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5A8EDCE3)
@@ -580,7 +580,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering placed (layer F.Cu) (tedit 58E0A804) (tstamp 5A95F893)
-    (at 99.5 227.5 180)
+    (at 115 218 180)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5A8FA6B1)
@@ -616,7 +616,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering placed (layer F.Cu) (tedit 58E0A804) (tstamp 5A95F8A5)
-    (at 113 221.1)
+    (at 128.5 211.6)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5A9050E2)
@@ -652,7 +652,7 @@
   )
 
   (module Capacitors_SMD:C_1206_HandSoldering (layer F.Cu) (tedit 58AA84D1) (tstamp 5AFD9E12)
-    (at 100.4 232.1)
+    (at 115.9 222.6)
     (descr "Capacitor SMD 1206, hand soldering")
     (tags "capacitor 1206")
     (path /5A8F3C5B)
@@ -688,7 +688,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5AFD9E23)
-    (at 89.9 223.9)
+    (at 105.4 214.4)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5A8E21E3)
@@ -724,7 +724,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5AFD9E34)
-    (at 89.9 228.5 180)
+    (at 105.1 221.2 180)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5A8E2819)
@@ -760,7 +760,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 58AA84A8) (tstamp 5AFD9E35)
-    (at 104.5 227.5)
+    (at 120 218)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5A8FA7D8)
@@ -796,7 +796,7 @@
   )
 
   (module Capacitors_SMD:C_1206_HandSoldering (layer F.Cu) (tedit 58AA84D1) (tstamp 5AFD9E45)
-    (at 113.9 224.3)
+    (at 129.4 214.8)
     (descr "Capacitor SMD 1206, hand soldering")
     (tags "capacitor 1206")
     (path /5A993DC9)
@@ -832,7 +832,7 @@
   )
 
   (module Capacitors_SMD:CP_Elec_8x10 (layer F.Cu) (tedit 58AA9153) (tstamp 5AFD9E55)
-    (at 98.6 203.8 180)
+    (at 117.3 197.1 180)
     (descr "SMT capacitor, aluminium electrolytic, 8x10")
     (path /5A988A95)
     (attr smd)
@@ -882,7 +882,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23_Handsoldering (layer F.Cu) (tedit 58CE4E7E) (tstamp 5AFD9E84)
-    (at 84.1 222.5)
+    (at 99.6 213)
     (descr "SOT-23, Handsoldering")
     (tags SOT-23)
     (path /5AA32312)
@@ -922,7 +922,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AFD9E85)
-    (at 113 214.7)
+    (at 128.5 205.2)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AFDC740)
@@ -1021,7 +1021,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5AFD9EC5)
-    (at 89.75 221.5 180)
+    (at 105.25 212 180)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5ABDAAF0)
@@ -1093,7 +1093,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5AFD9EF5)
-    (at 89.7 217.5)
+    (at 105.2 208)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5A8D5AB1)
@@ -1129,7 +1129,7 @@
   )
 
   (module Resistors_SMD:R_0805_HandSoldering (layer F.Cu) (tedit 58E0A804) (tstamp 5AFD9F06)
-    (at 89.7 215.5 180)
+    (at 105.2 206 180)
     (descr "Resistor SMD 0805, hand soldering")
     (tags "resistor 0805")
     (path /5A8D662E)

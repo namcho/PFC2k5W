@@ -1,4 +1,4 @@
-update=16.05.2018 22:58:23
+update=17/05/2018 3:50:49 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=opto
 LibName31=atmel
 LibName32=contrib
 LibName33=valves
+LibName34=C:/Program Files/KiCad/share/kicad/library/namcholibs
