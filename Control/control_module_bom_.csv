@@ -1,0 +1,27 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,Polarised capacitor,CP1_Small,C10,100u,CP_Elec_8x10,1,
+2,Polarised capacitor,CP1_Small,C9,1u,C_1206_HandSoldering,1,
+3,Polarised capacitor,CP1_Small,C1 C6,CP1_Small,C_1206_HandSoldering,2,
+4,Unpolarized capacitor,C_Small,C2 C3 C4 C5 C7 C8,C_Small,C_0805_HandSoldering,6,
+5,Diode,BAS40-00,D1 D2,BAS40-00,SOT-23_Handsoldering,2,http://www.vishay.com/docs/85701/bas40v.pdf
+6,"Zener Diode, small symbol, alternativ symbol",D_Zener_Small_ALT,D3,D_Zener_Small_ALT,D_SOD-123,1,http://www.semicon.sanken-ele.co.jp/sk_content/sjpz-n18_ds_en.pdf
+7,"Generic connector, double row, 02x06, counter clockwise pin numbering scheme (similar to DIP packge numbering)",Conn_02x06_Counter_Clockwise,J1,Conn_02x06_Counter_Clockwise,Harwin_M55_7101242R,1,https://cdn.harwin.com/pdfs/M55-710.pdf
+8,"Resistor, small symbol",R_Small,R2,382k,R_1206_HandSoldering,1,
+9,"Resistor, small symbol",R_Small,R3,383k,R_1206_HandSoldering,1,
+10,"Resistor, small symbol",R_Small,R1 R4 R5 R6 R7 R8 R9 R10,R_Small,R_0805_HandSoldering,8,
+11,,UCC3818,U1,UCC3818,SOIC-16W_7.5x10.3mm_Pitch1.27mm,1,
+
+
+
+
+
+Component Groups:,11
+Component Count:,25
+Fitted Components:,25
+Number of PCBs:,1
+Total components:,25
+Schematic Version:,
+Schematic Date:,
+BoM Date:,10.06.2018 21:46:59
+Schematic Source:,D:/KiCAD/Projects/PFC2k5W/Control/control_module.sch
+KiCad Version:,Eeschema 4.0.7
